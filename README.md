@@ -15,3 +15,8 @@ _TODO:_ Add story book and test templates.
 ## 3. Folder structure is created
 
 ![alt text](./readme/3.png)
+
+# To Publish
+
+https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+Follow that but drag the VISX file to the web console rather than publish from CLI.
