@@ -4,6 +4,7 @@
   "displayName": "create-react-component",
   "description": "Create's an opinionated folder structure for a component.",
   "version": "0.0.1",
+  "repository": "https://github.com/chrispaynter/create-react-component",
   "engines": {
     "vscode": "^1.44.0"
   },
